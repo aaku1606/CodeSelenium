@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SAP Suite" parallel="false">
+  <test name="sUCESS FACTORSTest">
+    <classes>
+      <class name="mytestng.FirstTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
